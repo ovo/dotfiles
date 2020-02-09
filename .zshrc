@@ -1,5 +1,4 @@
 export ZSH=$HOME/.oh-my-zsh
-export SPACESHIP_GIT_BRANCH_PREFIX='🌳 '
 
 ZSH_THEME="sorin"
 
